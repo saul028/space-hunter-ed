@@ -3,8 +3,8 @@ var dir = point_direction(x,y-sprite_height/2,mouse_x,mouse_y);
 var flipped=(mouse_x>x)*2-1;
 
 
-var _interval=16;
-if interval_is_off(alarm[1],_interval){
+var flash_interval=16;
+if scr_draw_is_flash_interval_off(alarm[1],flash_interval){
 	gpu_set_fog(false,c_silver,0,1);
 }else{
 	gpu_set_fog(true,c_silver,0,1);

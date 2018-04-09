@@ -298,7 +298,7 @@
             "Key": "39c51489-aa86-43fa-9b61-a0a2bd22124c",
             "Value": {
                 "id": "c7da4613-6acb-49d6-b9db-716d5603884d",
-                "resourcePath": "scripts\\enemy_fire_bullet\\enemy_fire_bullet.yy",
+                "resourcePath": "scripts\\scr_enemy_fire_bullet\\scr_enemy_fire_bullet.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -316,6 +316,14 @@
                 "id": "2d2653e5-07f1-42ff-9343-bbffbcfda321",
                 "resourcePath": "rooms\\r_one\\r_one.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "412051c2-f9bc-4cf7-9143-f0b620599d97",
+            "Value": {
+                "id": "ac9f6a6f-4ccb-46cf-9803-13a0ade1fac0",
+                "resourcePath": "views\\412051c2-f9bc-4cf7-9143-f0b620599d97.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -471,10 +479,18 @@
             }
         },
         {
+            "Key": "635b8be5-4a54-40d0-b631-46d8dba2e7e7",
+            "Value": {
+                "id": "8a365626-ba62-41cd-a8ec-5427b09d05a2",
+                "resourcePath": "objects\\o_gun_box_parent\\o_gun_box_parent.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "68075b23-07cc-44f5-8517-b99f9c4bf1bc",
             "Value": {
                 "id": "a549d239-3743-4085-a343-13eb20d9cc0d",
-                "resourcePath": "scripts\\move\\move.yy",
+                "resourcePath": "scripts\\scr_enemy_move\\scr_enemy_move.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -647,6 +663,14 @@
             }
         },
         {
+            "Key": "93de6560-f394-46e0-8208-c3fd9e4443ae",
+            "Value": {
+                "id": "7ae6376b-5182-4881-9bcc-a38ab465e847",
+                "resourcePath": "objects\\o_gun_parent\\o_gun_parent.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "940948c3-ee03-42c8-bf00-51cf098f6c45",
             "Value": {
                 "id": "674291fe-ab42-47f2-9a7e-f1f4495d19c2",
@@ -799,6 +823,14 @@
             }
         },
         {
+            "Key": "ace2a1bd-80a1-4be9-a084-a0ef68b4167a",
+            "Value": {
+                "id": "b3a13153-5284-4bff-9099-cf40050c0953",
+                "resourcePath": "views\\ace2a1bd-80a1-4be9-a084-a0ef68b4167a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "ae41e71b-be70-4aa8-adb7-8d6bfd98de00",
             "Value": {
                 "id": "f6f16132-8c44-4ac2-85ab-a2eb203df1c9",
@@ -866,7 +898,7 @@
             "Key": "bd84b33d-cb6f-4ed7-bad9-87e2da363bf4",
             "Value": {
                 "id": "c5c012f6-07b6-44a9-92a8-7b41a1b7c4b1",
-                "resourcePath": "scripts\\interval_is_off\\interval_is_off.yy",
+                "resourcePath": "scripts\\scr_draw_is_flash_interval_off\\scr_draw_is_flash_interval_off.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -890,7 +922,7 @@
             "Key": "c2256995-be30-4a52-9c12-2d94b926adf4",
             "Value": {
                 "id": "5984ffde-63c6-4d1a-b930-f81a7c6cf30c",
-                "resourcePath": "objects\\o_enemy\\o_enemy.yy",
+                "resourcePath": "objects\\o_enemy01\\o_enemy01.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1079,14 +1111,6 @@
             }
         },
         {
-            "Key": "e952e487-7d75-4bf8-9bea-d15304a01fbc",
-            "Value": {
-                "id": "eabb2dc1-7101-422a-b042-7791873f9619",
-                "resourcePath": "objects\\o_biggun\\o_biggun.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "ebe59739-bc79-475b-a60d-631e2f23fe7e",
             "Value": {
                 "id": "795bbc1a-6233-4d20-a550-3c3a1fdc4757",
@@ -1154,7 +1178,7 @@
             "Key": "fb657078-88b6-4c4a-83a9-04dd1d594a8b",
             "Value": {
                 "id": "43890956-ddda-4ab5-b9f2-af04f4ee6875",
-                "resourcePath": "scripts\\macros\\macros.yy",
+                "resourcePath": "scripts\\Macros\\Macros.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -1186,14 +1210,14 @@
     "script_order": [
         "fb657078-88b6-4c4a-83a9-04dd1d594a8b",
         "68075b23-07cc-44f5-8517-b99f9c4bf1bc",
-        "80bdab4c-fcd4-44c3-8a48-96c7895a1c4d",
         "39c51489-aa86-43fa-9b61-a0a2bd22124c",
         "bd84b33d-cb6f-4ed7-bad9-87e2da363bf4",
         "28bd7c06-f87e-4b07-be37-13ef6b025974",
         "4eb8d764-cca8-4119-bb44-0dc8af909196",
         "ef7ef2cc-ddc3-408e-9a4e-f311e751c336",
         "5595c1ad-e095-4b49-82c9-c435dae27960",
-        "9f288e48-abf0-46c6-bd2f-f6a5ba65513d"
+        "9f288e48-abf0-46c6-bd2f-f6a5ba65513d",
+        "80bdab4c-fcd4-44c3-8a48-96c7895a1c4d"
     ],
     "tutorial": ""
 }
