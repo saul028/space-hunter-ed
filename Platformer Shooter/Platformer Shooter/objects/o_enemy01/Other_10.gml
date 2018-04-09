@@ -14,11 +14,11 @@ if instance_exists(o_player){
 
 	
 	if distance_to_object(o_player)<48{
-		enemy_fire_bullet();
+		scr_enemy_fire_bullet();
 	}
 	
 	/// Create a bullet敌人移动状态也发射子弹，调用脚本
-	enemy_fire_bullet();
+	scr_enemy_fire_bullet();
 }
 
-move(speed_,0.5);
+scr_enemy_move(speed_,0.5);
