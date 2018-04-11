@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "136ed345-4535-40ce-93c4-cef739bf1635",
+            "Value": {
+                "id": "3a6f664a-2ad7-4ce0-952c-39c245d7f8fc",
+                "resourcePath": "views\\136ed345-4535-40ce-93c4-cef739bf1635.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "14734308-26b4-4550-ae68-53af12cb9ef2",
             "Value": {
                 "id": "a79ea724-1369-46e6-820b-74109d549673",
@@ -239,10 +247,18 @@
             }
         },
         {
+            "Key": "29247444-c60f-4d27-bab5-19d1fd8063d0",
+            "Value": {
+                "id": "242f9d42-61d1-484f-b33b-f3400b4ec0a8",
+                "resourcePath": "objects\\o_bullet_parent\\o_bullet_parent.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2acec593-ca2c-480d-bbed-63fe91fdd17c",
             "Value": {
                 "id": "90f42377-c98f-4dfd-ba27-c94927767ee2",
-                "resourcePath": "objects\\o_bullet1\\o_bullet1.yy",
+                "resourcePath": "objects\\o_bullet2\\o_bullet2.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -450,7 +466,7 @@
             "Key": "6050c0c4-f63f-4b80-a198-adc0f39c9264",
             "Value": {
                 "id": "9ae3d6ad-db3f-4c7d-a1f9-385017fb5449",
-                "resourcePath": "sprites\\s_bullet1\\s_bullet1.yy",
+                "resourcePath": "sprites\\s_bullet2\\s_bullet2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -487,6 +503,14 @@
             }
         },
         {
+            "Key": "6377c707-3c15-48b3-95f2-50ef78ee7f3c",
+            "Value": {
+                "id": "84fbd5db-d2f3-4819-a2d2-b87d52841636",
+                "resourcePath": "objects\\o_bullet_hit_parent\\o_bullet_hit_parent.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "68075b23-07cc-44f5-8517-b99f9c4bf1bc",
             "Value": {
                 "id": "a549d239-3743-4085-a343-13eb20d9cc0d",
@@ -514,7 +538,7 @@
             "Key": "6dfc50bd-920d-43c7-9acc-02b0cb76d143",
             "Value": {
                 "id": "70471357-66ef-4a25-b015-365a1a12d2d5",
-                "resourcePath": "objects\\o_bullet\\o_bullet.yy",
+                "resourcePath": "objects\\o_bullet1\\o_bullet1.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -538,7 +562,7 @@
             "Key": "7589cfe0-6f6b-40fe-bdc7-34b27fb6cde0",
             "Value": {
                 "id": "9af48143-1de2-4440-8996-830de92858ee",
-                "resourcePath": "sprites\\s_enemy3\\s_enemy3.yy",
+                "resourcePath": "sprites\\s_enemy4\\s_enemy4.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -754,7 +778,7 @@
             "Key": "9f95da07-96ca-45b2-bbac-cc3a90480466",
             "Value": {
                 "id": "f3975ea0-d1bc-4390-98d0-aad243d6d3c0",
-                "resourcePath": "sprites\\s_enemy4\\s_enemy4.yy",
+                "resourcePath": "sprites\\s_enemy3\\s_enemy3.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -852,6 +876,14 @@
                 "id": "89a568ee-14d0-421e-a71a-4b01464eb856",
                 "resourcePath": "views\\b3ddc05e-f02a-49f6-8e09-e271e26ae95b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b514a297-b12d-430d-b153-3f2582e21009",
+            "Value": {
+                "id": "ff9f3aa9-bf73-4c52-b2ea-df822d8ad3ae",
+                "resourcePath": "objects\\o_enemy_parent\\o_enemy_parent.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1162,7 +1194,7 @@
             "Key": "f4cb39e0-ecf3-4b49-bc12-07b373c97611",
             "Value": {
                 "id": "406619fa-74f4-46e1-a76b-35171a38ca4b",
-                "resourcePath": "sprites\\s_bullet\\s_bullet.yy",
+                "resourcePath": "sprites\\s_bullet1\\s_bullet1.yy",
                 "resourceType": "GMSprite"
             }
         },

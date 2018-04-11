@@ -1,5 +1,5 @@
 /// @description Take damage
-health_-=0.5;
+health_-=other.damage;
 instance_destroy(other);
 
 var dir =other.direction;
