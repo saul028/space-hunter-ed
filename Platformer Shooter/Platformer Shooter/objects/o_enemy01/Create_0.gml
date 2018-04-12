@@ -13,6 +13,8 @@ alarm[0] = random( bullet_cooldown_);
 //States敌人状态
 MOVEMENT_=0;
 
+//攻击范围
+attack_range = 600;
 
 
 state_=MOVEMENT_;
