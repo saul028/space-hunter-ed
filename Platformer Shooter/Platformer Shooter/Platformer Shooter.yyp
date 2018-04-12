@@ -735,6 +735,14 @@
             }
         },
         {
+            "Key": "963ab3e5-a4b6-49f7-9a39-cb49a7414114",
+            "Value": {
+                "id": "c1c20e1b-bb4d-41d6-9e75-353c2046087e",
+                "resourcePath": "objects\\o_airEnemy_parent\\o_airEnemy_parent.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "97c3dcf3-fc1e-4cca-b715-cfb10309224f",
             "Value": {
                 "id": "065c3890-0295-4d7b-9557-3a43e66e9c44",

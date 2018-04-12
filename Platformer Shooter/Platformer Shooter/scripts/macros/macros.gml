@@ -11,3 +11,4 @@
 #macro SILENCE	0
 #macro PATROL	1
 #macro ATTACK	2
+#macro SMART    3
