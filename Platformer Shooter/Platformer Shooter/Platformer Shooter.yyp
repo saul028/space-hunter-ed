@@ -343,6 +343,14 @@
             }
         },
         {
+            "Key": "403fab04-533f-4ae4-bea6-e8b9ce77b5e9",
+            "Value": {
+                "id": "b8408516-3011-4b07-8c74-efa163859360",
+                "resourcePath": "scripts\\scr_get_enemy_xscale\\scr_get_enemy_xscale.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "40994a87-f687-4a1b-afab-ddae6ac0071b",
             "Value": {
                 "id": "2d2653e5-07f1-42ff-9343-bbffbcfda321",
@@ -1313,6 +1321,7 @@
         "1d8a9fca-86d2-43f8-bd4e-122737a90a9f",
         "c6a69bac-ec28-4af5-80ff-319cd8edca93",
         "c2a9eeff-2459-4373-845e-f0256e4ea161",
+        "403fab04-533f-4ae4-bea6-e8b9ce77b5e9",
         "bd84b33d-cb6f-4ed7-bad9-87e2da363bf4",
         "9f288e48-abf0-46c6-bd2f-f6a5ba65513d",
         "ef7ef2cc-ddc3-408e-9a4e-f311e751c336",
