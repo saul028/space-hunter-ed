@@ -26,7 +26,7 @@ if player_gun.id_ == 1{
 		var y_offset=lengthdir_y(20,dir);
 
 
-		var bullet = instance_create_layer(gun_x+x_offset,y-sprite_height/2+y_offset,"Instances",o_bullet);
+		var bullet = instance_create_layer(gun_x+x_offset,y-sprite_height/2+y_offset,"Instances",o_bullet1);
 		bullet.direction=dir;
 		bullet.image_angle=dir;//控制子弹图像的角度
 		alarm[0]=bullet_cooldown_;
@@ -47,7 +47,7 @@ if player_gun.id_ == 2{
 		var y_offset=lengthdir_y(20,dir);
 
 
-		var bullet = instance_create_layer(gun_x+x_offset,y-sprite_height/2+y_offset,"Instances",o_bullet1);
+		var bullet = instance_create_layer(gun_x+x_offset,y-sprite_height/2+y_offset,"Instances",o_bullet2);
 		bullet.direction=dir;
 		bullet.image_angle=dir;//控制子弹图像的角度
 		alarm[0]=bullet_cooldown_;

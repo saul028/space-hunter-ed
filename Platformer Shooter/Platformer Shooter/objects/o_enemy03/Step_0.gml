@@ -42,7 +42,7 @@ if !place_meeting(x,y+1,o_solid){
 
 
 //判断撞到墙体速度为零
-scr_enemy_move(speed_,0);
+//scr_enemy_move(speed_,0);
 
 //Check for landing落地判断
 if place_meeting(x,y+1,o_solid) && !place_meeting(x,yprevious+1,o_solid){
