@@ -1,2 +1,2 @@
-/// @description Insert 巡逻状态
-x += speed_ * dir;
+/// @description PATROL 巡逻状态
+x += speed_[@ h] * dir;
