@@ -14,6 +14,6 @@ alarm[0] = random( bullet_cooldown_);
 attack_range = 600;
 
 //初始状态
-state_=SMART;
+state_ = SMART;
 
 

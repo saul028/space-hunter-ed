@@ -10,7 +10,7 @@ if self.x<=o_player.x{
 }
 
 
-if state_ == ATTACK
+if state_ == SMART
 	draw_sprite_ext(s_enemy2,image_index, x,y,xscale_,1,0,image_blend,image_alpha);
 else if state_ == PATROL
 	draw_sprite_ext(s_enemy2,image_index, x,y,dir,1,0,image_blend,image_alpha);
