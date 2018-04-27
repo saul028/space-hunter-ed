@@ -1,7 +1,7 @@
 /// @description 初始化敌人
 
 //设置敌人血量
-health_ = 4;
+health_ = 2;
 
 //子弹冷却
 bullet_cooldown_=game_get_speed(gamespeed_fps);

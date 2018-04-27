@@ -4,7 +4,7 @@ speed_ = [hspeed_,0];
 gravity_ = .5;
 xscale_ = 1;
 //设置敌人血量
-health_ = 4;
+health_ = 2;
 
 //Bullet cooldown
 bullet_cooldown_ = game_get_speed(gamespeed_fps);
