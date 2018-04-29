@@ -767,6 +767,14 @@
             }
         },
         {
+            "Key": "856e0239-9167-4b25-83b0-824a5522a819",
+            "Value": {
+                "id": "c8c0b47d-9d2a-4b35-8d91-e51480ddc95f",
+                "resourcePath": "tilesets\\tileset3\\tileset3.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "85ea0a30-0ac9-41e4-a762-59d227841bed",
             "Value": {
                 "id": "da641232-edf1-41a8-92e6-729f98a8f2da",
@@ -1188,6 +1196,14 @@
                 "id": "37fe4385-a3b5-4ccf-9a9e-6ace29ec97da",
                 "resourcePath": "scripts\\scr_airEnemy_use_accelerate\\scr_airEnemy_use_accelerate.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "c7e7289d-1368-42c4-b149-8efd0545707b",
+            "Value": {
+                "id": "9f69a657-5578-463b-9cad-717a8cbe3107",
+                "resourcePath": "sprites\\s_autotile3\\s_autotile3.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
