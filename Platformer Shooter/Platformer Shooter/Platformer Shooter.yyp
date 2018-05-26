@@ -351,6 +351,14 @@
             }
         },
         {
+            "Key": "2e8e8da6-fe67-4591-966f-b52c5d692575",
+            "Value": {
+                "id": "1697a01a-bf83-429b-b6c9-fc5f2a63459a",
+                "resourcePath": "sprites\\s_enemy_beifaxian\\s_enemy_beifaxian.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2f0ae311-33a7-427a-8a43-2d030ab9df74",
             "Value": {
                 "id": "19ccac74-6457-4f11-8542-dec8d2b834d2",
@@ -1452,6 +1460,14 @@
                 "id": "f148f300-fb2e-4368-b6cb-cbf4db4304c4",
                 "resourcePath": "objects\\o_bullet0\\o_bullet0.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "dd492a09-910e-49dc-b437-a4be764e5a35",
+            "Value": {
+                "id": "d168a52a-6592-421c-959c-5ebecafe6786",
+                "resourcePath": "sprites\\s_enemy_shuaxindonghua\\s_enemy_shuaxindonghua.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
