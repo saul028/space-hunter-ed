@@ -12,7 +12,9 @@
         "9efbc8ce-c277-411b-9bc4-c92910f053ac",
         "0dd36e44-2751-4c5f-860e-b0a293c33a0f",
         "9cbe8c5f-785d-4d23-873f-80a6afabe433",
-        "a5c18b69-bd27-4210-a3f4-93e681adde02"
+        "a5c18b69-bd27-4210-a3f4-93e681adde02",
+        "76f26a1e-dda7-4a93-a0d8-ffde4a0c589c",
+        "52b78f38-08e9-49c7-9d20-0c7d75893402"
     ],
     "filterType": "GMSprite",
     "folderName": "Building",
